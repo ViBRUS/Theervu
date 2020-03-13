@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<users>
+  <profile>
+    <account>
+      <name>rutuja</name>
+      <pass>rutuja123</pass>
+      <email>abc@gmail.com</email>
+      <mobile>0000000000</mobile>
+      <age>20</age>
+    </account>
+    <account>
+      <name>theervu</name>
+      <pass>threevu123</pass>
+      <email>threevu@gmail.com</email>
+      <mobile>9090909090</mobile>
+      <age>21</age>
+    </account>
+  </profile>
+</users>
