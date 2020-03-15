@@ -661,8 +661,8 @@ a[href*='tel'], a[href*='mailto'] {
 	position: absolute;
 	background: url("../images/logo.png") no-repeat center center;
 	background-size: contain;
-	width: 70%;
-	height: 70%;
+	width: 50%;
+	height: 50%;
 }
 
 @media (min-width: 1200px) {
