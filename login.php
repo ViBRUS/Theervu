@@ -17,7 +17,7 @@ $result=mysqli_query($mysqli,"select * from omkar where email='".$email."'
 	and password='".$password."'");
 
 if($data = mysqli_fetch_array($result)){
-	header('Location: page2.php');
+	header('Location: afterlogin.html');
 }
 }
 
