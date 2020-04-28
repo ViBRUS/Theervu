@@ -1,8 +1,9 @@
 <?php 
-$db_name = 'contact';
-$db_user = 'root';
-$db_pass = '';
-$db_host = 'localhost'; 
+$db_name = 'theervu_contact';
+$db_user = 'theervu_contact';
+$db_pass = 'qwertyuiop1234567890';
+$db_host = '111.118.215.98'; 
+
 
 //$response = array();
 //$inputJSON = file_get_contents('php://input');
