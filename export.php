@@ -1,6 +1,7 @@
 <?php  
 //export.php  
-$connect = mysqli_connect("localhost", "root", "", "contact");
+$connect = mysqli_connect("111.118.215.98", "theervu_contact", "qwertyuiop1234567890", "theervu_contact");
+
 $output = '';
 if(isset($_POST["export"]))
 {
