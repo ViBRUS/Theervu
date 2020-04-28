@@ -10,10 +10,10 @@
 
 
 
-$mysqli =new mysqli("localhost","root","","grampanchayat");
+$mysqli =new mysqli("103.228.112.39","theervu_login","qwertyuiop1234567890","theervu_login");
 
 {
-$result=mysqli_query($mysqli,"select * from omkar where email='".$email."'
+$result=mysqli_query($mysqli,"select * from login where email='".$email."'
 	and password='".$password."'");
 
 if($data = mysqli_fetch_array($result)){
