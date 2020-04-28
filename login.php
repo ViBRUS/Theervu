@@ -10,7 +10,7 @@
 
 
 
-$mysqli =new mysqli("103.228.112.39","theervu_login","qwertyuiop1234567890","theervu_login");
+$mysqli =new mysqli("103.228.112.39","theervu","qwertyuiop1234567890","theervu");
 
 {
 $result=mysqli_query($mysqli,"select * from login where email='".$email."'
